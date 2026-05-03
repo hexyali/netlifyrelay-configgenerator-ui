@@ -12,7 +12,7 @@ This website is a companion tool for the **Netlify XHTTP Relay** project. It is 
 
 For the backend relay functionality (Edge Functions), please refer to the main repository:
 
-👉 **[Netlify XHTTP Relay - Main Project](https://github.com/amirs/Netlify-XHTTP-Relay)**
+👉 **[Netlify XHTTP Relay - Main Project](https://github.com/amirshaker000/netlify-relay)**
 ---
 
 ## 🌐 About This Tool
@@ -32,8 +32,10 @@ This website and generator tool were developed by:
 
 - **Name:** [ Alireza ]
 ---
-```markdown
+
 ## 💰 Donatio
+
+```markdown
 
 If you find this project useful and want to support its development, you can donate via the following addresse
 
