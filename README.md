@@ -56,7 +56,7 @@ If you find this project useful and want to support its development, you can don
 This project is licensed under the **MIT License**.
 
 ```txt
-MIT License
+
 
 Copyright (c) 2024 Alireza
 ```
